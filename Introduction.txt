@@ -1,0 +1,9 @@
+What if there is a real-time distributed network that Monitor air quality on a street-by-street level using Python, Cloud and IoT ?
+
+Nowadays, the air quality is considered a key point, and its accurate monitoring is not only suggested but it is even required in many areas.However, traditional standard monitors for air quality are very expensive and happens at a few stations that are few and far between. Since , the use of a low-cost distributed network of sensors represents a valid complementary approach.This got us thinking about how much the air quality could vary on a street-by-street level, and how to measure it.
+What if we used cabs to collect air quality data across the city in near real-time? The great thing about cabs is that it has an abundance of cabs, and they go everywhere. On a larger scale (with even more cabs) we could even collect enough data to build pollution maps that let us better understand how pollution may affect some areas more than others.
+In this project we'll be logging: longitude, latitude, temperature, humidity, pressure, and air borne particulate counts (PM10 - particles with a diameter between 2.5 µm and 10 µm, PM2.5 - fine particles with a diameter of 2.5 µm or less). 
+Power to the device will be provided by a solar panel or an Battery. Using the data collect by the cabs or we say moving station point will be plotted to create a real-time analytics.This type of monitoring will also be cost effective as it will cost lesser then setup a whole weather station. Cabs Driver or aggregators can be easily convinced  to earn a little bit of extra money by putting these station points
+
+
+
