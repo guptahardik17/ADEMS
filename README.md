@@ -26,5 +26,4 @@ Source Code Files:
 
 
 -----
-Visit Webpage to see maps: https://prayaascorps.com/adems/
 -----
